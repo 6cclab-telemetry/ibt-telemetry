@@ -11,8 +11,7 @@
   "author": "Steven Inskip",
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/SkippyZA/ibt-telemetry.git"
+    "type": "git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
